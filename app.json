@@ -1,11 +1,6 @@
 {
-  "name": "GaanaAPI",
-  "description": "Unofficial API of Gaana.",
-  "keywords": [
-    "flask",
-    "python",
-    "gaana",
-    "music"
-  ],
-  "repository": "https://github.com/naitikraj3101/GaanaAPI"
-}
+    "name": "gaanaapi",
+    "description": "gaanaapi",
+    "repository": "https://github.com/naitikraj3101/GaanaAPI",
+    
+  }
